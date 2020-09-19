@@ -1,0 +1,3 @@
+pytz==2019.3
+mongoengine==0.19.1
+mongomock==3.19.0
